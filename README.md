@@ -12,20 +12,18 @@ marital status: married, 4 children
 
 ## Education:
 
-Voronezh State University 1991-1996
-Master's degree in Theoretical and Mathematical Physics
+1991-1996 Voronezh State University. Master's degree in Theoretical and Mathematical Physics
 
 ## Experience:
 
  * Oct 2017 - present:
-Software Developer at Health Samurai (Saint Petersburg, Russian Federation)
-I participate in the development of an application for the management of a medical institution. Clojure / Clojurescript / Reagent / Re-frame / Postgresql / Docker / Kubernetes, etc. Having daily online meetings with the customer in English.
+Software Developer at Health Samurai (Saint Petersburg, Russian Federation). I participate in the development of an application for the management of a medical institution. Clojure / Clojurescript / Reagent / Re-frame / Postgresql / Docker / Kubernetes, etc. Having daily online meetings with the customer in English.
+
  * 2006 – Sep 2017:
-Self-employed Freelance Software Engineer
-A full cycle of services for setting up and implementing 1C (russian accounting framework) software products - from document management and financial accounting to the implementation of software products and the development of unique configurations for its maintenance. Interconnection of accounting systems with trade and other equipment, organization of migration / exchange of information between different systems.
+Self-employed Freelance Software Engineer. A full cycle of services for setting up and implementing 1C (russian accounting framework) software products - from document management and financial accounting to the implementation of software products and the development of unique configurations for its maintenance. Interconnection of accounting systems with trade and other equipment, organization of migration / exchange of information between different systems.
+
  * 1999 – 2006:
-Chief Technical Architect at ART-COM (Voronezh Region, Russian Federation)
-Art-Com - 1C Franchisee. Programmer -> Project Manager -> Head of Implementation Department. I was engaged in the tasks of the full cycle of automation of enterprises accounting: communication with customers, collecting / analyzing information, formalizing the tasks, drawing up a technical task, assigning tasks to performers, monitoring the progress of work, independent participation in responsible projects, delivery of work to customers.
+Chief Technical Architect at ART-COM (Voronezh Region, Russian Federation) - 1C Franchisee. Programmer -> Project Manager -> Head of Implementation Department. I was engaged in the tasks of the full cycle of automation of enterprises accounting: communication with customers, collecting / analyzing information, formalizing the tasks, drawing up a technical task, assigning tasks to performers, monitoring the progress of work, independent participation in responsible projects, delivery of work to customers.
 
 
 In parallel with the main work I studied other languages ​​and programming paradigms: OOP (Java, C#), FP (Haskell, Scheme, F#, Clojure), programming of microcontrollers (Asm, C), mathematical modeling (Matlab), etc. Project examples:
