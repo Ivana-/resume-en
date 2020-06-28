@@ -16,7 +16,10 @@ marital status: married, 4 children
 
 ## Experience:
 
- * Oct 2017 - present:
+ * Aug 2019 - present:
+Software Developer at Norwegian-American startup Yellowsack. Clojure / Clojurescript / Reagent / Re-frame / Datomic / Docker / Kubernetes, etc. Daily rallies with the customer in English.
+
+ * Oct 2017 - Aug 2019:
 Software Developer at Health Samurai (Saint Petersburg, Russian Federation). I participate in the development of an application for the management of a medical institution. Clojure / Clojurescript / Reagent / Re-frame / Postgresql / Docker / Kubernetes, etc. Having daily online meetings with the customer in English.
 
  * 2006 – Sep 2017:
